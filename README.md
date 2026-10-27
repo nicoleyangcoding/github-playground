@@ -1,2 +1,3 @@
 # github-playground
-Sandbox for trying out GitHub features
+
+A sandbox for trying out GitHub features: issues, pull requests, reviews, and co-authored commits.
